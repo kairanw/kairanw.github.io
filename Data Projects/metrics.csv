@@ -1,0 +1,9 @@
+Model (Regression),Target Variable,Test MAE,Test R Squared
+Linear,dev_mean,0.798357384,0.001720495
+Polynomial (deg=2),dev_mean,0.794480671,0.00998279
+Linear Lasso,rating,0.798221106,0.21358983
+Linear Ridge,rating,0.798389903,0.213414836
+Polynomial (deg=2),rating,0.794167973,0.220576816
+Polynomial Lasso,rating,0.796082129,0.21851439
+KNN,dev_mean,0.791914916,0.016504259
+Random Forest,dev_mean,0.767332282,0.072196131

@@ -1,0 +1,4 @@
+Model (Classification),Target Variable,Accuracy,F1
+Logistic Regression,rating,0.390551244,0.344863126
+Random Forest,rating,0.399711977,0.367138758
+KNN,rating,0.322785823,0.322288267
